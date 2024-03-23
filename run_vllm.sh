@@ -1,0 +1,1 @@
+PYTHONPATH=. poetry run python -m vllm.entrypoints.openai.api_server --model model/
